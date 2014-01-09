@@ -1,0 +1,65 @@
+
+##################
+# Custom Ignores #
+##################
+
+
+########################
+# Java generated files #
+########################
+*.class
+*.war
+*.ear
+
+##############################
+# hybris Ant generated files #
+##############################
+gensrc/
+build.xml
+extensioninfo.xsd
+hmc.xsd
+platformhome.properties
+*-testclasses.xml
+beans.xsd
+items.xsd
+classes/
+
+#########################
+# Maven generated files #
+#########################
+target/
+
+######################
+# OS generated files #
+######################
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+################################
+# Sublime Text generated files #
+################################
+*.sublime-project
+*.sublime-workspace
+
+##############
+# Diff Files #
+##############
+*.orig
+
+######################
+# Editing temp files #
+######################
+*~
+*#
+
+###########################
+# Other unnecessary files #
+###########################
+.svn
+
+##############
+# Exceptions #
+##############
+# !xxx.jar
