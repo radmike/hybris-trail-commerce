@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <testclasses>
   <merchandisestorefront>
-    <testclass>com.radmike.merchandise.storefront.controllers.cms.ProductReferencesComponentControllerTest</testclass>
+    <testclass>com.radmike.merchandise.storefront.filters.TagResourcesAddOnFilterTest</testclass>
     <testclass>com.radmike.merchandise.storefront.filters.CommonResourcesAddOnFilterTest</testclass>
+    <testclass>com.radmike.merchandise.storefront.controllers.cms.ProductFeatureComponentControllerTest</testclass>
     <testclass>com.radmike.merchandise.storefront.controllers.pages.SearchPageControllerUnitTest</testclass>
-    <testclass>com.radmike.merchandise.storefront.controllers.cms.PurchasedCategorySuggestionComponentControllerTest</testclass>
+    <testclass>com.radmike.merchandise.storefront.controllers.cms.MiniCartComponentControllerTest</testclass>
     <testclass>com.radmike.merchandise.storefront.web.view.UiExperienceViewResolverTest</testclass>
-    <testclass>com.radmike.merchandise.storefront.security.impl.WebHttpSessionRequestCacheUnitTest</testclass>
-    <testclass>com.radmike.merchandise.storefront.interceptors.CSRFHandlerInterceptorTest</testclass>
-    <testclass>com.radmike.merchandise.storefront.controllers.cms.DefaultCMSComponentControllerTest</testclass>
     <testclass>com.radmike.merchandise.storefront.filters.AcceleratorAddOnFilterTest</testclass>
+    <testclass>com.radmike.merchandise.storefront.controllers.cms.DefaultCMSComponentControllerTest</testclass>
+    <testclass>com.radmike.merchandise.storefront.controllers.cms.ProductReferencesComponentControllerTest</testclass>
+    <testclass>com.radmike.merchandise.storefront.filters.AnonymousCheckoutFilterTest</testclass>
+    <testclass>com.radmike.merchandise.storefront.filters.CustomerLocationRestorationFilterTest</testclass>
+    <testclass>com.radmike.merchandise.storefront.filters.AbstractAddOnFilterTest</testclass>
+    <testclass>com.radmike.merchandise.storefront.controllers.cms.CartSuggestionComponentControllerTest</testclass>
+    <testclass>com.radmike.merchandise.storefront.controllers.cms.PurchasedCategorySuggestionComponentControllerTest</testclass>
+    <testclass>com.radmike.merchandise.storefront.security.impl.WebHttpSessionRequestCacheUnitTest</testclass>
     <testclass>com.radmike.merchandise.storefront.controllers.cms.ProductCarouselComponentControllerTest</testclass>
     <testclass>com.radmike.merchandise.storefront.controllers.pages.CartPageControllerTest</testclass>
-    <testclass>com.radmike.merchandise.storefront.filters.CustomerLocationRestorationFilterTest</testclass>
+    <testclass>com.radmike.merchandise.storefront.interceptors.CSRFHandlerInterceptorTest</testclass>
+    <testclass>com.radmike.merchandise.storefront.security.impl.CartUsurpProtectionUnitTest</testclass>
+    <testclass>com.radmike.merchandise.storefront.security.cookie.EnhancedCookieGeneratorTest</testclass>
+    <testclass>com.radmike.merchandise.storefront.controllers.cms.CategoryFeatureComponentControllerTest</testclass>
     <testclass>com.radmike.merchandise.storefront.interceptors.i18n.SetLanguageBeforeControllerHandlerTest</testclass>
     <testclass>com.radmike.merchandise.storefront.controllers.cms.NavigationBarComponentControllerTest</testclass>
-    <testclass>com.radmike.merchandise.storefront.controllers.cms.CartSuggestionComponentControllerTest</testclass>
-    <testclass>com.radmike.merchandise.storefront.controllers.cms.ProductFeatureComponentControllerTest</testclass>
-    <testclass>com.radmike.merchandise.storefront.filters.TagResourcesAddOnFilterTest</testclass>
-    <testclass>com.radmike.merchandise.storefront.security.impl.CartUsurpProtectionUnitTest</testclass>
-    <testclass>com.radmike.merchandise.storefront.controllers.cms.MiniCartComponentControllerTest</testclass>
-    <testclass>com.radmike.merchandise.storefront.filters.AbstractAddOnFilterTest</testclass>
-    <testclass>com.radmike.merchandise.storefront.controllers.cms.CategoryFeatureComponentControllerTest</testclass>
-    <testclass>com.radmike.merchandise.storefront.security.cookie.EnhancedCookieGeneratorTest</testclass>
-    <testclass>com.radmike.merchandise.storefront.filters.AnonymousCheckoutFilterTest</testclass>
   </merchandisestorefront>
 </testclasses>

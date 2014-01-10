@@ -143,13 +143,13 @@
 		<extension name="yacceleratorstorefront" />
 		<extension name="yacceleratorinitialdata" />
 		<extension name="yacceleratorcockpits" />
--->
 
 		<extension name="yb2bacceleratorcore" />
 		<extension name="yb2bacceleratorfacades" />
 		<extension name="yb2bacceleratorinitialdata" />
 		<extension name="yb2bacceleratorstorefront" />
 		<extension name="yb2bacceleratortest" />
+-->
 
 		<extension name="yinstoreinitialdata" />
 
