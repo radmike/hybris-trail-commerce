@@ -1,9 +1,0 @@
-#
-# Import the Content Catalog
-#
-
-# Language
-$lang=zh
-
-# Create Content Catalog
-UPDATE ContentCatalog;id[unique=true];name[lang=$lang]
