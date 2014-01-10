@@ -22,9 +22,9 @@
 		<requires-extension name="captchaaddon" />
 -->
 
-		<webmodule jspcompile="false" webroot="/merchandisestorefront"/>
-			
-		
+		<webmodule jspcompile="false" webroot="/store"/>
+
+
 
 	</extension>
 

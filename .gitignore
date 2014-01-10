@@ -2,6 +2,13 @@
 ##################
 # Custom Ignores #
 ##################
+bin/custom/merchandise/merchandisecore/hmc/bin/
+bin/custom/merchandise/merchandisestorefront/web/addonsrc/
+bin/custom/merchandise/merchandisestorefront/web/commonwebsrc/
+bin/custom/merchandise/merchandisestorefront/web/webroot/WEB-INF/messages/addons/
+bin/custom/merchandise/merchandisestorefront/web/webroot/WEB-INF/tags/addons/
+bin/custom/merchandise/merchandisestorefront/web/webroot/WEB-INF/views/addons/
+bin/custom/merchandise/merchandisestorefront/web/webroot/_ui/addons/
 
 
 ########################
