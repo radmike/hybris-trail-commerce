@@ -137,19 +137,20 @@
 		<extension name="ycommercewebserviceshmc" />
 		<extension name="yaddon" />
 
-		<!-- <extension name="yacceleratorfulfilmentprocess" />-->
-		<!-- <extension name="yacceleratortest" />-->
-		<!-- <extension name="yacceleratorstorefront" />-->
-		<!-- <extension name="yacceleratorinitialdata" />-->
-		<!-- <extension name="yacceleratorcockpits" />-->
+<!--
+		<extension name="yacceleratorfulfilmentprocess" />
+		<extension name="yacceleratortest" />
+		<extension name="yacceleratorstorefront" />
+		<extension name="yacceleratorinitialdata" />
+		<extension name="yacceleratorcockpits" />
+-->
 
-		<!--
 		<extension name="yb2bacceleratorcore" />
 		<extension name="yb2bacceleratorfacades" />
 		<extension name="yb2bacceleratorinitialdata" />
 		<extension name="yb2bacceleratorstorefront" />
 		<extension name="yb2bacceleratortest" />
-		-->
+
 		<extension name="yinstoreinitialdata" />
 
 
@@ -179,12 +180,15 @@
 		<!-- <extension name="chinaacceleratorfacades" />-->
 		<!-- <extension name="alipay" />-->
 
-		<extension name="merchandisecore" />
-		<extension name="merchandisefacades" />
+
 		<extension name="merchandisefulfilmentprocess" />
+		<extension name="merchandisecore" />
 		<extension name="merchandiseinitialdata" />
-		<extension name="merchandisestorefront" />
+		<extension name="merchandisefacades" />
 		<extension name="merchandisetest" />
+		<extension name="merchandisestorefront" />
+		<extension name="merchandisecockpits" />
+
 
 	</extensions>
 </hybrisconfig>
