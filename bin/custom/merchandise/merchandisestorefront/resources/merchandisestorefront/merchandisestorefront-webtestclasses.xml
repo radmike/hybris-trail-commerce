@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testclasses>
+  <merchandisestorefront>
+    <testclass>com.radmike.merchandise.chinastorefront.controllers.cms.DefaultCMSComponentControllerTest</testclass>
+    <testclass>com.radmike.merchandise.chinastorefront.filters.TagResourcesAddOnFilterTest</testclass>
+    <testclass>com.radmike.merchandise.chinastorefront.filters.AcceleratorAddOnFilterTest</testclass>
+    <testclass>com.radmike.merchandise.chinastorefront.filters.CustomerLocationRestorationFilterTest</testclass>
+    <testclass>com.radmike.merchandise.chinastorefront.security.cookie.EnhancedCookieGeneratorTest</testclass>
+    <testclass>com.radmike.merchandise.chinastorefront.security.impl.WebHttpSessionRequestCacheUnitTest</testclass>
+    <testclass>com.radmike.merchandise.chinastorefront.controllers.pages.SearchPageControllerUnitTest</testclass>
+    <testclass>com.radmike.merchandise.chinastorefront.interceptors.CSRFHandlerInterceptorTest</testclass>
+    <testclass>com.radmike.merchandise.chinastorefront.controllers.cms.MiniCartComponentControllerTest</testclass>
+    <testclass>com.radmike.merchandise.chinastorefront.filters.AbstractAddOnFilterTest</testclass>
+    <testclass>com.radmike.merchandise.chinastorefront.controllers.cms.ProductReferencesComponentControllerTest</testclass>
+    <testclass>com.radmike.merchandise.chinastorefront.filters.AnonymousCheckoutFilterTest</testclass>
+    <testclass>com.radmike.merchandise.chinastorefront.controllers.cms.CategoryFeatureComponentControllerTest</testclass>
+    <testclass>com.radmike.merchandise.chinastorefront.controllers.cms.ProductFeatureComponentControllerTest</testclass>
+    <testclass>com.radmike.merchandise.chinastorefront.controllers.cms.ProductCarouselComponentControllerTest</testclass>
+    <testclass>com.radmike.merchandise.chinastorefront.controllers.pages.CartPageControllerTest</testclass>
+    <testclass>com.radmike.merchandise.chinastorefront.web.view.UiExperienceViewResolverTest</testclass>
+    <testclass>com.radmike.merchandise.chinastorefront.controllers.cms.PurchasedCategorySuggestionComponentControllerTest</testclass>
+    <testclass>com.radmike.merchandise.chinastorefront.security.impl.CartUsurpProtectionUnitTest</testclass>
+    <testclass>com.radmike.merchandise.chinastorefront.controllers.cms.NavigationBarComponentControllerTest</testclass>
+    <testclass>com.radmike.merchandise.chinastorefront.interceptors.i18n.SetLanguageBeforeControllerHandlerTest</testclass>
+    <testclass>com.radmike.merchandise.chinastorefront.controllers.cms.CartSuggestionComponentControllerTest</testclass>
+    <testclass>com.radmike.merchandise.chinastorefront.filters.CommonResourcesAddOnFilterTest</testclass>
+  </merchandisestorefront>
+</testclasses>
