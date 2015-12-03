@@ -40,11 +40,12 @@ ehthumbs.db
 Icon?
 Thumbs.db
 
-################################
-# Sublime Text generated files #
-################################
+######################################
+# Sublime Text / IDE generated files #
+######################################
 *.sublime-project
 *.sublime-workspace
+eclipsebin/
 
 ##############
 # Diff Files #
